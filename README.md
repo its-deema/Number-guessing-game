@@ -35,10 +35,6 @@ To play the Guessing Game, follow these steps:
 3. Gain points for correct guesses and lose points for incorrect guesses.
 4. Enjoy the challenge and try to achieve the highest score possible!
 
-## Project Purpose
-
-This project was developed as part of a university assignment to demonstrate object-oriented programming concepts, user interactions, and logic implementation in Java programming.
-
 Feel free to explore the code, make improvements, or use it as a learning resource for Java programming and game development.
 
 Enjoy playing the Guessing Game!
