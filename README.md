@@ -35,6 +35,11 @@ To play the Guessing Game, follow these steps:
 3. Gain points for correct guesses and lose points for incorrect guesses.
 4. Enjoy the challenge and try to achieve the highest score possible!
 
+## Team members 
+- [@byReema ](https://github.com/byReema)
+- Wareef Alolayan
+- Shihanah Albadi
+
 Feel free to explore the code, make improvements, or use it as a learning resource for Java programming and game development.
 
 Enjoy playing the Guessing Game!
