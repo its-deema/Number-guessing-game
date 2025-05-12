@@ -36,7 +36,8 @@ To play the Guessing Game, follow these steps:
 4. Enjoy the challenge and try to achieve the highest score possible!
 
 ## Team members 
-- [@byReema ](https://github.com/byReema)
+- [@ReemaAlnasser](https://github.com/byReema)
+- [@DeemaAlnasser](https://github.com/its-deema)
 - Wareef Alolayan
 - Shihanah Albadi
 
